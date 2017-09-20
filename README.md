@@ -10,10 +10,6 @@ npm install alloyfinger
 
 # Usage
 
-### AlloyCrop
-
-* [https://github.com/AlloyTeam/AlloyCrop](https://github.com/AlloyTeam/AlloyCrop)
-
 ### Omi Version:
 
 * [omi-finger](https://github.com/AlloyTeam/omi/tree/master/plugins/omi-finger)
